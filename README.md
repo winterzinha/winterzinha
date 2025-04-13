@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://inwinter.org/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisiswinter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiswinter&layout=compact&langs_count=168&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winterzinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterzinha&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
 
 ##
@@ -30,5 +30,5 @@
   <a href="https://discord.com/channels/@me/1119669187997073539" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/thisiswinter/thisiswinter/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/winterzinha/winterzinha/blob/output/github-contribution-grid-snake.svg)
 
