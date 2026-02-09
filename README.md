@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Typescript
 
 <div>
-  <a href="https://inwinter.org/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winterzinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterzinha&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
