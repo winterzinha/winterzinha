@@ -61,6 +61,20 @@
 
 ---
 
+### 🚀 Featured Project
+
+🏍️ **Motos API**  
+REST API for users and motorcycles management.
+
+- JWT authentication
+- CRUD operations
+- PostgreSQL integration
+- Protected routes (middleware)
+
+🔗 https://github.com/winterzinha/motos-api
+
+---
+
 ## 🌐 Socials
 
 <div> 
