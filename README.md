@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Winter%20❄️&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <b>Backend Developer | Node.js | TypeScript</b>
+</p>
+
 # ❄️ Winter | Backend Developer
 
 > Back-end developer focused on building APIs, authentication systems and scalable applications.
