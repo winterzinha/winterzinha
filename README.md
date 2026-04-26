@@ -63,15 +63,15 @@
 
 ### 🚀 Featured Project
 
-🏍️ **Motos API**  
-REST API for users and motorcycles management.
+💸 **My Finance App**  
+Full-stack financial management application for personal expense tracking and organization.
 
 - JWT authentication
-- CRUD operations
-- PostgreSQL integration
+- Financial transactions management
+- PostgreSQL + Prisma ORM
+- File uploads with Multer + Cloudinary
 - Protected routes (middleware)
-
-🔗 https://github.com/winterzinha/motos-api
+- Monthly reports and financial insights
 
 ---
 
