@@ -8,14 +8,14 @@
 
 # ❄️ Winter | Backend Developer
 
-> Back-end developer focused on building APIs, authentication systems and scalable applications.
+> Backend developer focused on building APIs, authentication systems and scalable applications with Node.js and TypeScript.
 
 ---
 
-## 🧠 About me
+## 🧠 About Me
 
-- 🔭 I’m currently focused on **Backend Development**
-- 🌱 Learning **TypeScript, Node.js best practices and system design basics**
+- 🔭 Focused on **Backend Development**
+- 🌱 Currently improving my skills in **TypeScript, Node.js best practices and system design**
 - ⚙️ Interested in APIs, authentication, databases and backend architecture
 - 🎯 Goal: Become a strong Backend Engineer (Node.js / TypeScript)
 
@@ -30,24 +30,41 @@
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-black?logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 
+### ☁️ Services & Tools
+![Neon](https://img.shields.io/badge/Neon-black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?logo=cloudinary)
+![Multer](https://img.shields.io/badge/Multer-gray)
+
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-purple?logo=vite)
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winterzinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterzinha&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+### 💸 My Finance App
+Full-stack financial management application focused on personal expense tracking, transaction control and financial organization.
+
+**Frontend:** React.js · Vite  
+**Backend:** Node.js · Express · Prisma ORM · PostgreSQL  
+**Database Hosting:** Neon  
+**Frontend Hosting:** Netlify  
+**API Hosting:** Vercel  
+**Features:** JWT authentication · Protected routes · File uploads · Cloudinary integration · Monthly reports · Financial insights  
+
+- 🔗 [Frontend Repository](https://github.com/winterzinha/my-finance-front)
+- 🔗 [Backend Repository](https://github.com/winterzinha/my-finance-back)
+- 🌐 Private production deployment (real usage)
 
 ---
 
@@ -57,32 +74,32 @@
 - Authentication (JWT)
 - Database design
 - Backend architecture
-- Clean code & structure
+- Clean code & scalable structure
 
 ---
 
-### 🚀 Featured Project
+## 💼 Professional Goal
 
-💸 **My Finance App**  
-Full-stack financial management application for personal expense tracking and organization.
-
-- JWT authentication
-- Financial transactions management
-- PostgreSQL + Prisma ORM
-- File uploads with Multer + Cloudinary
-- Protected routes (middleware)
-- Monthly reports and financial insights
+Currently building backend-focused projects and looking for internship or junior backend opportunities.
 
 ---
 
-## 🌐 Socials
+## 🌐 Contact
 
-<div> 
-  <a href="https://instagram.com/winterzinho" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<div>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="mailto:your-email@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
-  <a href="https://discord.com/channels/@me/1119669187997073539" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winterzinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterzinha&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
