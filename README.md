@@ -62,8 +62,6 @@ Full-stack financial management application focused on personal expense tracking
 **API Hosting:** Vercel  
 **Features:** JWT authentication · Protected routes · File uploads · Cloudinary integration · Monthly reports · Financial insights  
 
-- 🔗 [Frontend Repository](https://github.com/winterzinha/my-finance-front)
-- 🔗 [Backend Repository](https://github.com/winterzinha/my-finance-back)
 - 🌐 Private production deployment (real usage)
 
 ---
