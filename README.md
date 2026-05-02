@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Winter%&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Winter%❄️&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
   <b>Backend Developer | Node.js | TypeScript</b>
 </p>
 
-# ❄️ Isis Yumi | Backend Developer (Node.js)
+# ❄️ Winter | Backend Developer (Node.js)
 
 > Backend developer focused on building APIs, authentication systems and scalable applications with Node.js and TypeScript.
 
@@ -76,21 +76,16 @@ Full-stack financial management application focused on personal expense tracking
 
 ---
 
-## 💼 Professional Goal
+## 🌐 Socials
 
-Currently building backend-focused projects and looking for internship or junior backend opportunities.
-
----
-
-## 🌐 Contact
-
-<div>
-  <a href="https://linkedin.com/in/yumi.isis1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<div> 
+  <a href="https://instagram.com/winterzinho" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:isisyumi.contact@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
+  <a href="https://discord.com/channels/@me/1119669187997073539" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
 </div>
 
 ---
@@ -98,6 +93,6 @@ Currently building backend-focused projects and looking for internship or junior
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isisyumi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisyumi&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=winterzinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterzinha&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
