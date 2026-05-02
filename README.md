@@ -82,7 +82,7 @@ Currently building backend-focused projects and looking for internship or junior
 
 ---
 
-## 🌐 Contact
+<!-- ## 🌐 Contact
 
 <div>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
@@ -91,7 +91,20 @@ Currently building backend-focused projects and looking for internship or junior
   <a href="mailto:your-email@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+</div> -->
+
+## 🌐 Socials
+
+<div> 
+  <a href="https://instagram.com/winterzinho" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://discord.com/channels/@me/1119669187997073539" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
 </div>
+
 
 ---
 
